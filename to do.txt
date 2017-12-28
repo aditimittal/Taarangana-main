@@ -1,0 +1,37 @@
+total pages:
+home - 							aframe
+about-
+	about our college + venue - 404 -				venue page of 404
+	about taarangana - 			aframe
+events-							404
+	formal events 				404					2nd and 3rd tab of events "I wnat to participate"
+	informal events				404
+	online events				404
+		Inside of events		404 - 				side tab of 404 which opens on 
+schedule						aframe
+	day 1
+	day2
+pronight						aframe
+	day 1
+	day 2
+gallery							aframe
+sponsors-						404					speakers page of 404
+	previous year				404					Lightning talks tab of speakers page of 404
+	current year				404					Community Meetups tab of speakers page of 404
+meet-team						404					speakers page of 404
+	core team					404					Main Stage tab of speakers page of 404
+	website team				404					Installations tab of speakers page of 404
+
+
+*********Other things to worry about:*********
+login + signup + registeration form 				i want to go tab of 404/
+
+#correct the header and footer for aframe 
+#tabs + correct linking
+#events -> experience+speakers+tech teams - shubhi
+#sponsors- speaker - lig
+
+
+
+-> add loader
+-> add music
